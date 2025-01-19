@@ -25,26 +25,6 @@ npm run dev
 
 3. Open [http://localhost:3000](http://localhost:3000)
 
-## Deploy on Vercel
-
-The easiest way to deploy this app is to use the [Vercel Platform](https://vercel.com):
-
-1. Sign up on Vercel
-2. Install Vercel CLI: `npm i -g vercel`
-3. Run: `vercel deploy`
-
-## Alternative Deployment
-
-1. Build the project:
-```bash
-npm run build
-```
-
-2. Start the production server:
-```bash
-npm start
-```
-
 ## Technologies Used
 
 - Next.js 14
